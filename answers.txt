@@ -7,3 +7,12 @@ Q2: What field could Data Science be applied to? Give an example.
 
 Answer: Data Science could be applied to the vield of Medicine. Data Science could be used to analyze the effective of various drugs. 
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: [Your answer here]
+Merging combines two branches. The combined branch has a two parents. 
+Rebasing puts the commits of your current branch one by one on the latest branch of the other commit
+
+Q4: What are you looking forward to this semester?
+I look forward to learning more applications of data science, and how it can be used in other ares of CS
